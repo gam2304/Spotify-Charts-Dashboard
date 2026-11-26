@@ -1,0 +1,16 @@
+# Raw data (see data/README.md)
+*.csv
+*.xlsx
+data/raw/
+
+# Power BI temp / lock files
+~$*.pbix
+*.pbix.bak
+.pbi/
+*.abf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
