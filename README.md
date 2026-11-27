@@ -180,8 +180,7 @@ spotify-global-music-intelligence/
 
 ## Data source
 
-- **Dataset:** _add the dataset name, author and link_
-- **Licence:** _add the licence / terms of use_
+- **Dataset:** https://zenodo.org/records/23645386?utm_
 
 ---
 
